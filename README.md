@@ -1,7 +1,7 @@
 ### Olá! Eu sou Renato Marcelo 👋
 
 - 🔭 Hoje eu trabalho com front-end e back-end
-- 🌱  Estudando PHP
+- 🌱  Estudando java
 
 <div>
   <a href="https://github.com/jimy189">
